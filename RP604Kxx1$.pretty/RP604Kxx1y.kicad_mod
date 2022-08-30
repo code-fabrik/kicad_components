@@ -1,6 +1,7 @@
 (footprint "RP604Kxx1y" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (descr "Ultra-low Quiescent Current (IQ = 0.3 μA), 300 mA, Buck-Boost\nDC/DC Converter")
   (attr smd)
   (fp_text reference "REF**" (at -3.9 -0.8 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))

@@ -6,7 +6,7 @@
     (property "Value" "RP604Kxx1$" (id 1) (at 0 15.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -7.62 7.62 0)
+    (property "Footprint" "RP604Kxx1$:RP604Kxx1y" (id 2) (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/rp604-ea.pdf" (id 3) (at -7.62 -15.24 0)
