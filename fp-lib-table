@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "LSM6DSOXTR")(type "KiCad")(uri "${KIPRJMOD}/external/snapeda/LSM6DSOXTR")(options "")(descr ""))
+  (lib (name "RP604Kxx1$")(type "KiCad")(uri "${KIPRJMOD}/RP604Kxx1$.pretty")(options "")(descr ""))
 )
